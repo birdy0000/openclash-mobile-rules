@@ -43,7 +43,10 @@ https://raw.githubusercontent.com/birdy0000/openclash-mobile-rules/main/v2rayng_
 
 - `DIRECT` -> direct connection.
 - `REJECT*` -> reject/block.
-- Any other OpenClash policy group, including `USA` and `GLOBAL`, -> default proxy.
+- `USA` -> USA proxy group, filtered by US/USA/United States/America/美国/🇺🇸 node names.
+- `DE` -> DE proxy group, filtered by DE/Germany/Deutschland/德国/🇩🇪 node names.
+- `GLOBAL` -> GLOBAL proxy group, matching all proxy nodes.
+- v2rayNG uses outbound tags `proxy`, `usa`, `de`, `direct`, and `block`.
 
 ## Conversion Notes
 

@@ -5,189 +5,189 @@
     "rules": [
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:openai.com"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:chatgpt.com"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:oaistatic.com"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:oaiusercontent.com"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:openaiapi-site.azureedge.net"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:openaicom.imgix.net"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:production-openaicom-storage.azureedge.net"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:openaicomproductionae4b.blob.core.windows.net"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:chatgpt.livekit.cloud"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:host.livekit.cloud"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:turn.livekit.cloud"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:client-api.arkoselabs.com"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:arkoselabs.com"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:auth0.com"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:statsigapi.net"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:featuregates.org"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:intercom.io"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:intercomcdn.com"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:launchdarkly.com"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:sentry.io"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:segment.io"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "domain:stripe.com"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "openai"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "chatgpt"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "openaicom"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "googlevideo"
         ]
@@ -201,7 +201,7 @@
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "usa",
         "domain": [
           "youtube"
         ]
@@ -2889,7 +2889,7 @@
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "de",
         "domain": [
           "google"
         ]
@@ -3319,6 +3319,13 @@
         "outboundTag": "proxy",
         "domain": [
           "facebook"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "youtube"
         ]
       },
       {
@@ -4137,6 +4144,13 @@
         "type": "field",
         "outboundTag": "proxy",
         "domain": [
+          "domain:auth0.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
           "domain:cdn.cloudflare.net"
         ]
       },
@@ -4151,7 +4165,35 @@
         "type": "field",
         "outboundTag": "proxy",
         "domain": [
+          "domain:chatgpt.livekit.cloud"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:client-api.arkoselabs.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
           "domain:events.statsigapi.net"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:featuregates.org"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:host.livekit.cloud"
         ]
       },
       {
@@ -4165,6 +4207,41 @@
         "type": "field",
         "outboundTag": "proxy",
         "domain": [
+          "domain:intercom.io"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:intercomcdn.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:launchdarkly.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:oaistatic.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:oaiusercontent.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
           "domain:observeit.net"
         ]
       },
@@ -4172,7 +4249,56 @@
         "type": "field",
         "outboundTag": "proxy",
         "domain": [
+          "domain:openai.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:openaiapi-site.azureedge.net"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:openaicom.imgix.net"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
           "domain:poe.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:segment.io"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:sentry.io"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:stripe.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "domain:turn.livekit.cloud"
         ]
       },
       {
