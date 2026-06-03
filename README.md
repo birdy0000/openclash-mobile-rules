@@ -9,12 +9,19 @@ or full client profiles.
 ## Files
 
 - `shadowrocket_rules.list` - import or reference from Shadowrocket rules.
+- `shadowrocket.conf` - complete Shadowrocket config for URL import.
 - `v2rayng_routing_rules.json` - routing rules array for v2rayNG custom routing.
 - `v2rayng_routing.json` - complete routing object wrapper for Xray/V2Ray-style configs.
 
 ## Raw URLs
 
 Shadowrocket:
+
+```text
+https://raw.githubusercontent.com/birdy0000/openclash-mobile-rules/main/shadowrocket.conf
+```
+
+Shadowrocket rule list:
 
 ```text
 https://raw.githubusercontent.com/birdy0000/openclash-mobile-rules/main/shadowrocket_rules.list
