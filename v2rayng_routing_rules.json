@@ -183,6 +183,482 @@
   },
   {
     "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:cbr.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:mironline.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:nspk.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:banki.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sber.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sberbank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sberbank.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tbank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tinkoff.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tinkoffbank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:vtb.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:vtb.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:alfabank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:alfa-bank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:gazprombank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:gpb.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:pochtabank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sovcombank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:halvacard.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:mkb.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:rosbank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:raiffeisen.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:rshb.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:psbank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:domrfbank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:akbars.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:otpbank.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:rencredit.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:qiwi.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:yoomoney.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:magnit.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:magnitcosmetic.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:5ka.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:pyaterochka.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:perekrestok.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:x5.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:x5club.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:lenta.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:lentochka.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:vkusvill.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:auchan.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:auchan-retail.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:metro-cc.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:globus.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:okmarket.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:okeydostavka.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:dixy.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:krasnoeibeloe.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:bristol.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:fix-price.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:fix-price.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:monetka.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:yarcheplus.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:svetoforonline.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:verno-info.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:kuper.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sbermarket.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:samokat.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:lavka.yandex.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:eda.yandex.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:market.yandex.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ozon.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:wildberries.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:wb.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:avito.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:detmir.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:goldapple.ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:letu.ru"
+    ]
+  },
+  {
+    "type": "field",
     "outboundTag": "usa",
     "domain": [
       "googlevideo"
