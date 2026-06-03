@@ -8,10 +8,9 @@ or full client profiles.
 
 ## Files
 
-- `shadowrocket_rules.list` - rules for Shadowrocket.
-- `v2rayng_routing_rules.json` - routing rule array for v2rayNG custom routing.
-- `v2rayng_routing.json` - complete routing object wrapper for Xray/V2Ray-style
-  configs.
+- `shadowrocket_rules.list` - import or reference from Shadowrocket rules.
+- `v2rayng_routing_rules.json` - routing rules array for v2rayNG custom routing.
+- `v2rayng_routing.json` - complete routing object wrapper for Xray/V2Ray-style configs.
 
 ## Raw URLs
 
@@ -35,6 +34,12 @@ https://raw.githubusercontent.com/birdy0000/openclash-mobile-rules/main/v2rayng_
 
 ## Policy Mapping
 
-- `DIRECT` becomes direct connection.
-- `REJECT*` becomes reject/block.
-- OpenClash proxy groups such as `USA` and `GLOBAL` become the default proxy.
+- `DIRECT` -> direct connection.
+- `REJECT*` -> reject/block.
+- Any other OpenClash policy group, including `USA` and `GLOBAL`, -> default proxy.
+
+## Conversion Notes
+
+- Shadowrocket skipped 2 unsupported or malformed rule(s).
+- v2rayNG skipped 2 unsupported or malformed rule(s).
+- The source OpenClash rules remain authoritative. Regenerate these files after editing the source.
