@@ -1,0 +1,4440 @@
+[
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:openai.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:chatgpt.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:oaistatic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:oaiusercontent.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:openaiapi-site.azureedge.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:openaicom.imgix.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:production-openaicom-storage.azureedge.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:openaicomproductionae4b.blob.core.windows.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:chatgpt.livekit.cloud"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:host.livekit.cloud"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:turn.livekit.cloud"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:client-api.arkoselabs.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:arkoselabs.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:auth0.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:statsigapi.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:featuregates.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:intercom.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:intercomcdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:launchdarkly.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:sentry.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:segment.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:stripe.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "openai"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "chatgpt"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "openaicom"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "googlevideo"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "bili"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "youtube"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "mosmetro"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:lbs.netease.im"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "153.36.254.198/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "1.50.254.17/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "175.44.107.114/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "101.71.155.75/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "xhs"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      ".ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "ip": [
+      "47.235.21.38/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "bld"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "blued"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "ip": [
+      "163.181.253.224/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:datagw-edge.alipay.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "ip": [
+      "163.181.253.223/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "alipay"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "ali"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:fengkongcloud.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "Che"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "tiktok"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:126.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "ip": [
+      "geoip:ru"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "yandex"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "pstatp"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "bytecdn"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "snssdk"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "douyin"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "douyinpic"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "amemv"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "zjcdn"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "weixin"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "xiaohongshu"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:apple-relay.akamaized.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:apple-relay.apple.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:apple-relay.cloudflare.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:apple-relay.fastly-edge.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:copilot.microsoft.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:copilot.bing.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:apple-relay.mask.apple-dns.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:taobao.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:alicdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "full:blzddist1-a.akamaihd.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:cdn.angruo.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "full:download.jetbrains.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "full:file-igamecj.akamaized.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "full:images-cn.ssl-images-amazon.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "full:officecdn-microsoft-com.akamaized.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "full:speedtest.macpaw.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:abchina.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:accuweather.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:acgvideo.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:acm.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:acs.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:aicoinstorge.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:aip.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:air-matters.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:air-matters.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:aixifan.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:akadns.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:alibaba.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:alikunlun.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:alipay.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:amap.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:amd.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ams.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:animebytes.tv"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:annualreviews.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:aps.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ascelibrary.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:asm.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:asme.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:astm.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:autonavi.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:awesome-hd.me"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:b612.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:baduziyuan.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:battle.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:bdatu.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:beitaichufang.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:biliapi.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:biliapi.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:bilibili.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:bilibili.tv"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:bjango.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:blizzard.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:bmj.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:booking.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:broadcasthe.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:bstatic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:cailianpress.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:cambridge.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:camera360.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:cas.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ccgslb.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ccgslb.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:cctv.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:cctvpic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:chdbits.co"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:chinanetcenter.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:chinaso.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:chua.pro"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:chuimg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:chunyu.mobi"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:chushou.tv"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:clarivate.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:classix-unlimited.co.uk"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:cmbchina.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:cmbimg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:cn"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:com-hs-hkdy.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ctrip.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:czybjz.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:dandanzan.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:dfcfw.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:didialift.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:didiglobal.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:dingtalk.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:docschina.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:douban.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:doubanio.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:douyu.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:duokan.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:dxycdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:dytt8.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:eastmoney.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ebscohost.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:emerald.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:empornium.me"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:engineeringvillage.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:eudic.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:feiliao.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:feng.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:fengkongcloud.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:fjhps.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:frdic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:futu5.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:futunn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:gandi.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:gazellegames.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:geilicdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:getpricetag.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:gifshow.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:godic.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:gtimg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:hdbits.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:hdchina.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:hdhome.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:hdsky.me"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:hdslb.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:hicloud.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:hitv.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:hongxiu.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:hostbuf.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:huxiucdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:huya.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:icetorrent.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:icevirtuallibrary.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:iciba.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:idqqimg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ieee.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:iesdouyin.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:igamecj.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:imf.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:infinitynewtab.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:iop.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ip-cdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ip.la"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ipip.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ipv6-test.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:iqiyi.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:iqiyipic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ithome.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:jamanetwork.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:java.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:jd.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:jd.hk"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:jdpay.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:jhu.edu"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:jidian.im"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:jpopsuki.eu"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:jstor.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:jstucdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:kaiyanapp.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:karger.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:kaspersky-labs.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:keepcdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:keepfrds.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:kkmh.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ksosoft.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:kuyunbo.club"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:libguides.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:livechina.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:lofter.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:loli.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:luojilab.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:m-team.cc"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:madsrevolution.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:maoyan.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:maoyun.tv"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:meipai.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:meitu.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:meituan.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:meituan.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:meitudata.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:meitustat.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:meixincdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:mgtv.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:mi-img.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:microsoft.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:miui.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:miwifi.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:mobike.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:moke.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:morethan.tv"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:mpg.de"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:msecnd.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:mubu.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:mxhichina.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:myanonamouse.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:myapp.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:myilibrary.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:myqcloud.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:myzaker.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:nanyangpt.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:nature.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ncore.cc"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:netease.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:netspeedtestmaster.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:nim-lang-cn.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:nvidia.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:oecd-ilibrary.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:office365.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:open.cd"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:oracle.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:osapublishing.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:oup.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ourbits.club"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ourdvs.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:outlook.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ovid.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:oxfordartonline.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:oxfordbibliographies.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:oxfordmusiconline.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:passthepopcorn.me"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:paypal.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:paypalobjects.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:pnas.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:privatehd.to"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:proquest.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:pstatp.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:pterclub.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:qdaily.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:qhimg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:qhres.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:qidian.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:qq.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:wechat.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:dns.pub"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:doh.pub"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:qyer.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:qyerstatic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:raychase.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:redacted.ch"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ronghub.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:rsc.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ruguoapp.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:s-microsoft.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:s-reader.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sagepub.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sankuai.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sciencedirect.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:sciencemag.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:scomper.me"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:scopus.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:seafile.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:servicewechat.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:siam.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sina.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sm.ms"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:smzdm.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:snapdrop.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:snssdk.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:snwx.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sogo.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sogou.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sogoucdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sohu-inc.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sohu.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sohucs.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:soku.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:spiedigitallibrary.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:springer.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:springerlink.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:springsunday.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:sspai.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:staticdn.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:steam-chat.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:steamcdn-a.akamaihd.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:steamcontent.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:steamgames.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:steampowered.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:steamstat.us"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:steamstatic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:steamusercontent.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:takungpao.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tandfonline.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:teamviewer.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tencent-cloud.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tencent.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tenpay.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:test-ipv6.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tianyancha.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tjupt.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tmall.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:tmall.hk"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:totheglory.im"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:toutiao.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:udache.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:udacity.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:un.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:uni-bielefeld.de"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:uning.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:v-56.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:visualstudio.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:vmware.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:wangsu.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:weather.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:webofknowledge.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:weibo.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:weibocdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:weico.cc"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:weidian.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:westlaw.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:whatismyip.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:wiley.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:windows.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:windowsupdate.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:worldbank.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:worldscientific.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:xiachufang.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:xiami.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:xiami.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:xiaomi.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:xiaohongshu.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ximalaya.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:xinhuanet.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:xmcdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:yangkeduo.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ydstatic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:youku.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:zhangzishi.cc"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:zhihu.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:zhimg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:zhuihd.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:zimuzu.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:zimuzu.tv"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:zmz2019.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:zmzapi.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:zmzapi.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:zmzfile.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:manmanbuy.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "full:www-cdn.icloud.com.akadns.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:aaplimg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:apple-cloudkit.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:apple.co"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:apple.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:apple.news"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:apple.com.cn"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:appstore.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:cdn-apple.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:crashlytics.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:icloud-content.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:icloud.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:icloud.com.cn"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:me.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:mzstatic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:v2ex.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:scdn.co"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:line.naver.jp"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:line.me"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:line-apps.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:line-cdn.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:line-scdn.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "blogspot"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "google"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:abc.xyz"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:goog"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:admin.recaptcha.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:ampproject.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:android.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:androidify.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:appspot.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:autodraw.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:blogger.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:capitalg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:certificate-transparency.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:chrome.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:chromeexperiments.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:chromestatus.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:chromium.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:creativelab5.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:debug.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:deepmind.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:dialogflow.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:firebaseio.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:getmdl.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:getoutline.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:ggpht.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:gmail.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:gmodules.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:godoc.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:golang.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:gstatic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:gv.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:gvt0.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:gvt1.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:gvt3.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:gwtproject.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:itasoftware.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:madewithcode.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:material.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:polymer-project.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:recaptcha.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:shattered.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:synergyse.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:telephony.goog"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:tensorflow.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:tfhub.dev"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:tiltbrush.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:waveprotocol.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:waymo.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:webmproject.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:webrtc.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:whatbrowser.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:widevine.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:x.company"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:xn--ngstr-lra8j.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:youtu.be"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:yt.be"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:ytimg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:clubhouseapi.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:clubhouse.pubnub.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:joinclubhouse.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:ap3.agora.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "aka"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "facebook"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "twitter"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:instagram.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:cdninstagram.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "instagram"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:instagr.am"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "gmail"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "pixiv"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:fb.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:meta.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:twimg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:x.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:t.co"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:kenengba.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:akamai.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:whatsapp.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:whatsapp.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:snapchat.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:amazonaws.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:angularjs.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:akamaihd.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:amazon.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:bit.ly"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:bitbucket.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:blog.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:blogcdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:blogsmithmedia.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:box.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:bloomberg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:cl.ly"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:cloudfront.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:cloudflare.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:cocoapods.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:dribbble.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:dropbox.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:dropboxstatic.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:dropboxusercontent.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:docker.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:duckduckgo.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:digicert.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:dnsimple.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:edgecastcdn.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:engadget.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:eurekavpt.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:fb.me"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:fbcdn.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:fc2.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:feedburner.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:fabric.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:flickr.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:fastly.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:github.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:github.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:githubusercontent.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:goo.gl"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:godaddy.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:gravatar.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:imageshack.us"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:imgur.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:jshint.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:ift.tt"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:j.mp"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:kat.cr"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:linode.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:lithium.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:megaupload.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:mobile01.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:modmyi.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:nytimes.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:name.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:openvpn.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:openwrt.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:ow.ly"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:pinboard.in"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:ssl-images-amazon.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:sstatic.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:stackoverflow.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:staticflickr.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:squarespace.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:symcd.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:symcb.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:symauth.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:ubnt.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:thepiratebay.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:tumblr.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:twitch.tv"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:twitter.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:wikipedia.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:wikipedia.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:wikimedia.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:wordpress.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:wsj.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:wsj.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:wp.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:vimeo.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:tapbots.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:ykimg.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:medium.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:fast.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:nflxvideo.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:linkedin.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:licdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:bing.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:zoom.us"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:soundcloud.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:sndcdn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:api.statsig.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:browser-intake-datadoghq.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:chat.openai.com.cdn.cloudflare.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:o33249.ingest.sentry.io"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:openai-api.arkoselabs.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:openaicomproductionae4b.blob.core.windows.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:production-openaicom-storage.azureedge.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "full:static.cloudflareinsights.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "openaicom-api"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:algolia.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:cdn.cloudflare.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:challenges.cloudflare.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:events.statsigapi.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:identrust.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:observeit.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:poe.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "24.199.123.28/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "45.76.214.191/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "64.23.132.171/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "143.198.200.27/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "159.89.204.203/32"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:t.me"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:tdesktop.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:telegra.ph"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:telegram.me"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:telegram.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:telesco.pe"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "91.108.4.0/22"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "91.108.8.0/22"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "91.108.12.0/22"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "91.108.16.0/22"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "91.108.56.0/22"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "109.239.140.0/24"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "149.154.160.0/20"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "2001:B28:F23D::/48"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "2001:B28:F23F::/48"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "2001:67C:4E8::/48"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:dnsleaktest.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:dnsleak.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:expressvpn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:nordvpn.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:surfshark.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:ipleak.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:perfect-privacy.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:browserleaks.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:browserleaks.org"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:vpnunlimited.com"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:whoer.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:whrq.net"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "ip": [
+      "192.168.0.0/16"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "ip": [
+      "10.0.0.0/8"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "ip": [
+      "172.16.0.0/12"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "direct",
+    "ip": [
+      "127.0.0.0/8"
+    ]
+  },
+  {
+    "type": "field",
+    "outboundTag": "proxy",
+    "ip": [
+      "geoip:cn"
+    ]
+  }
+]
