@@ -12,6 +12,7 @@ or full client profiles.
 - `shadowrocket.conf` - complete Shadowrocket config for URL import.
 - `v2rayng_routing_rules.json` - routing rules array for v2rayNG custom routing.
 - `v2rayng_routing.json` - complete routing object wrapper for Xray/V2Ray-style configs.
+- `openclash_custom_rules.list` - OpenClash-only custom rules file.
 - `clashbox_rules.yaml` - Clash/Mihomo/OpenClash-compatible rules fragment.
 
 ## Raw URLs
@@ -40,6 +41,12 @@ v2rayNG routing object:
 https://raw.githubusercontent.com/birdy0000/openclash-mobile-rules/main/v2rayng_routing.json
 ```
 
+OpenClash custom rules:
+
+```text
+https://raw.githubusercontent.com/birdy0000/openclash-mobile-rules/main/openclash_custom_rules.list
+```
+
 Clash Box / Clash / Mihomo rules fragment:
 
 ```text
@@ -54,6 +61,7 @@ https://raw.githubusercontent.com/birdy0000/openclash-mobile-rules/main/clashbox
 - `DE` -> DE proxy group, filtered by DE/Germany/Deutschland/德国/🇩🇪 node names.
 - `GLOBAL` -> GLOBAL proxy group, matching all proxy nodes.
 - v2rayNG uses outbound tags `proxy`, `usa`, `de`, `direct`, and `block`.
+- OpenClash uses `openclash_custom_rules.list`.
 - Clash Box keeps the original OpenClash policy names such as `USA`, `DE`,
   `GLOBAL`, and `DIRECT`.
 
