@@ -1603,13 +1603,6 @@
         "type": "field",
         "outboundTag": "direct",
         "domain": [
-          "domain:fengkongcloud.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "direct",
-        "domain": [
           "domain:fjhps.com"
         ]
       },
@@ -2471,13 +2464,6 @@
         "type": "field",
         "outboundTag": "direct",
         "domain": [
-          "domain:wechat.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "direct",
-        "domain": [
           "domain:dns.pub"
         ]
       },
@@ -2969,6 +2955,13 @@
         "outboundTag": "direct",
         "domain": [
           "domain:webofknowledge.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:wechat.com"
         ]
       },
       {
@@ -3801,13 +3794,6 @@
         "type": "field",
         "outboundTag": "proxy",
         "domain": [
-          "youtube"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
           "twitter"
         ]
       },
@@ -4620,13 +4606,6 @@
         "type": "field",
         "outboundTag": "proxy",
         "domain": [
-          "domain:auth0.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
           "domain:cdn.cloudflare.net"
         ]
       },
@@ -4641,35 +4620,7 @@
         "type": "field",
         "outboundTag": "proxy",
         "domain": [
-          "domain:chatgpt.livekit.cloud"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:client-api.arkoselabs.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
           "domain:events.statsigapi.net"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:featuregates.org"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:host.livekit.cloud"
         ]
       },
       {
@@ -4683,41 +4634,6 @@
         "type": "field",
         "outboundTag": "proxy",
         "domain": [
-          "domain:intercom.io"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:intercomcdn.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:launchdarkly.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:oaistatic.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:oaiusercontent.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
           "domain:observeit.net"
         ]
       },
@@ -4725,56 +4641,7 @@
         "type": "field",
         "outboundTag": "proxy",
         "domain": [
-          "domain:openai.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:openaiapi-site.azureedge.net"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:openaicom.imgix.net"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
           "domain:poe.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:segment.io"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:sentry.io"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:stripe.com"
-        ]
-      },
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "domain": [
-          "domain:turn.livekit.cloud"
         ]
       },
       {
