@@ -3,6 +3,7 @@
 # The proxy groups referenced here must exist in the active profile.
 
 rules:
+- SRC-IP-CIDR,192.168.125.0/24,DIRECT
 - DOMAIN-SUFFIX,openai.com,USA
 - DOMAIN-SUFFIX,chatgpt.com,USA
 - DOMAIN-SUFFIX,oaistatic.com,USA
@@ -97,7 +98,6 @@ rules:
 - DOMAIN-SUFFIX,detmir.ru,DIRECT
 - DOMAIN-SUFFIX,goldapple.ru,DIRECT
 - DOMAIN-SUFFIX,letu.ru,DIRECT
-- SRC-IP-CIDR,192.168.125.0/24,DIRECT
 - DOMAIN-KEYWORD,googlevideo,USA
 - DOMAIN-KEYWORD,bili,GLOBAL
 - DOMAIN-KEYWORD,youtube,USA
