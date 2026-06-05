@@ -1,6 +1,10 @@
 # Generated from source/openclash_custom_rules.list
 # Default proxy mapping: OpenClash GLOBAL/代理 -> Shadowrocket PROXY
 
+IP-CIDR,192.168.62.1/32,DIRECT,no-resolve
+IP-CIDR,192.168.1.0/24,DIRECT,no-resolve
+IP-CIDR,192.168.62.0/24,DIRECT,no-resolve
+IP-CIDR,192.168.125.0/24,DIRECT,no-resolve
 DOMAIN-SUFFIX,openai.com,USA
 DOMAIN-SUFFIX,chatgpt.com,USA
 DOMAIN-SUFFIX,oaistatic.com,USA
@@ -380,4 +384,5 @@ GEOIP,CN,PROXY
 FINAL,PROXY
 
 # Skipped rules
+# unsupported for Shadowrocket: DST-PORT,53,DIRECT
 # unsupported for Shadowrocket: SRC-IP-CIDR,192.168.125.0/24,DIRECT

@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/birdy0000/openclash-mobile-rules/main/clashbox
 
 ## Conversion Notes
 
-- Shadowrocket skipped 1 unsupported or malformed rule(s).
-- v2rayNG skipped 1 unsupported or malformed rule(s).
+- Shadowrocket skipped 2 unsupported or malformed rule(s).
+- v2rayNG skipped 2 unsupported or malformed rule(s).
 - The source OpenClash rules remain authoritative at `source/openclash_custom_rules.list`.
 - Regenerate these files after editing the source.
