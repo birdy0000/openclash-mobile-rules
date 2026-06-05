@@ -59,11 +59,10 @@ https://raw.githubusercontent.com/birdy0000/openclash-mobile-rules/main/clashbox
 - `REJECT*` -> reject/block.
 - `USA` -> USA proxy group, filtered by US/USA/United States/America/美国/🇺🇸 node names.
 - `DE` -> DE proxy group, filtered by DE/Germany/Deutschland/德国/🇩🇪 node names.
-- Shadowrocket maps `GLOBAL` source rules to the default `PROXY` policy, matching all proxy nodes.
+- Shadowrocket and Clash Box map `GLOBAL` source rules to the default `PROXY` policy, matching all proxy nodes.
 - v2rayNG uses outbound tags `proxy`, `usa`, `de`, `direct`, and `block`.
-- OpenClash uses `openclash_custom_rules.list`.
-- Clash Box keeps the original OpenClash policy names such as `USA`, `DE`,
-  `GLOBAL`, and `DIRECT`.
+- OpenClash uses `openclash_custom_rules.list`, keeping the router source policy names.
+- Clash Box uses `PROXY`, `USA`, `DE`, and `DIRECT`; make sure those groups exist in the active Clash Box profile.
 
 ## Conversion Notes
 
