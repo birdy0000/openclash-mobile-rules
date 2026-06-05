@@ -1,4 +1,4 @@
-# Generated from custom/openclash_custom_rules.list
+# Generated from source/openclash_custom_rules.list
 # Use as a Clash/Mihomo/OpenClash rules override or rules fragment.
 # The proxy groups referenced here must exist in the active profile.
 

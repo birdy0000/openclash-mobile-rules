@@ -2,7 +2,8 @@
 
 Public generated rule files for mobile proxy clients.
 
-These files are generated from the private OpenClash source rule file. This
+These files are generated from `source/openclash_custom_rules.list` in the
+private OpenClash rules repository. This
 repository does not contain proxy nodes, subscription links, passwords, tokens,
 or full client profiles.
 
@@ -70,4 +71,5 @@ https://raw.githubusercontent.com/birdy0000/openclash-mobile-rules/main/clashbox
 
 - Shadowrocket skipped 1 unsupported or malformed rule(s).
 - v2rayNG skipped 1 unsupported or malformed rule(s).
-- The source OpenClash rules remain authoritative. Regenerate these files after editing the source.
+- The source OpenClash rules remain authoritative at `source/openclash_custom_rules.list`.
+- Regenerate these files after editing the source.
