@@ -1,5 +1,5 @@
 # Generated from custom/openclash_custom_rules.list
-# Policy mapping: OpenClash proxy groups are preserved, for example USA -> USA and DE -> DE
+# Default proxy mapping: OpenClash GLOBAL/代理 -> Shadowrocket PROXY
 
 DOMAIN-SUFFIX,openai.com,USA
 DOMAIN-SUFFIX,chatgpt.com,USA
@@ -377,6 +377,7 @@ IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
 IP-CIDR,127.0.0.0/8,DIRECT
 GEOIP,CN,PROXY
+FINAL,PROXY
 
 # Skipped rules
 # unsupported for Shadowrocket: SRC-IP-CIDR,192.168.125.0/24,DIRECT
